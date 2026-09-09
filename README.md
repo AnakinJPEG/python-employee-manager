@@ -18,3 +18,5 @@ employees = [
     {"name": "Alice", "dpt": "Engineering", "salary": 75000},
     {"name": "Bob", "dpt": "Sales", "salary": 55000}
 ]
+```
+## HOW TO RUN
