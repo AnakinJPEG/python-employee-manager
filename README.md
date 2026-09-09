@@ -20,3 +20,29 @@ employees = [
 ]
 ```
 ## HOW TO RUN
+
+1. Clone the repository
+2. Run the program
+
+--- File Name ---
+
+Name your Python file one of these:
+- main.py
+- employee_management.py
+- app.py
+
+
+## Skills Demonstrated
+
+- Functions
+- Lists of dictionaries
+- File I/O (JSON)
+- Menu-driven interface
+- Data persistence
+
+## Future Improvements
+
+- Input validation
+- CSV export
+- GUI interface
+- Database integration
